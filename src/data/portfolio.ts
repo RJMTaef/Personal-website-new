@@ -4,7 +4,7 @@ export const portfolioData = {
     "tagline": "Data • DevOps • Analytics",
     "location": "Halifax, Nova Scotia, Canada",
     "one_liner": "4th-year Computer Science student at Dalhousie building data pipelines, dashboards, and clean automation.",
-    "about_long": "I'm a 4th-year Computer Science student at Dalhousie University (minor in Management) focused on data engineering, analytics, and DevOps. I enjoy turning messy data into reliable pipelines and actionable dashboards, and I like production-minded code with tests, CI/CD, and observability. I run the social brand \"AI Tools Simplified\" to help people use AI practically.",
+    "about_long": "I'm a 4th-year Computer Science student at Dalhousie University (minor in Management) focused on data engineering, analytics, and DevOps. I enjoy turning messy data into reliable pipelines and actionable dashboards, and I like production-minded code with tests, CI/CD, and observability. I run the social brand \"AI Tools Simplified\" to help people use AI practically. Currently seeking Winter 2025 and Summer 2026 co-op opportunities.",
     "email": "rjmtaef@gmail.com",
     "phone": "+1 (782) 774-8920",
     "website": "https://github.com/RJMTaef",
@@ -152,15 +152,15 @@ export const portfolioData = {
   ],
   "interests": ["Linux sysadmin", "Data engineering", "NLP customization", "Automation", "Content creation"],
   "resume_pdf": "/assets/Roslan-Taef-Resume.pdf",
-  "contact": {
-    "message": "Let's build data products and pipelines that actually ship.",
-    "cta_primary": "Email me",
-    "cta_secondary": "Download Résumé"
-  },
+      "contact": {
+      "message": "Let's build data products and pipelines that actually ship. Ready for Winter 2025 and Summer 2026 opportunities!",
+      "cta_primary": "Email me",
+      "cta_secondary": "Download Resume"
+    },
   "seo": {
-    "title": "Roslan Taef — Data • DevOps • Analytics",
-    "description": "Portfolio of Roslan Taef — data pipelines, dashboards, and DevOps automation. Dalhousie CS student in Halifax.",
-    "keywords": ["Roslan Taef", "Data Engineering", "Analytics", "DevOps", "Halifax", "Dalhousie"]
+    "title": "Roslan Taef — Data • DevOps • Analytics Portfolio",
+    "description": "Portfolio of Roslan Taef — data pipelines, dashboards, and DevOps automation. 4th-year Dalhousie CS student in Halifax.",
+    "keywords": ["Roslan Taef", "Data Engineering", "Analytics", "DevOps", "Halifax", "Dalhousie", "Portfolio"]
   }
 };
 
