@@ -3,7 +3,7 @@ export const portfolioData = {
     name: "Roslan Taef",
     email: "rjmtaef@gmail.com",
     location: "Halifax, Nova Scotia",
-    tagline: "Data engineering · Analytics · Automation",
+    tagline: "Data · Analytics · Automation · Web design & WordPress",
     social: {
       github: "https://github.com/RJMTaef",
       linkedin: "https://www.linkedin.com/in/roslantaef",
@@ -40,6 +40,20 @@ export const portfolioData = {
         "AI integrations",
       ],
       detail: "From a repeated task to a reusable workflow.",
+    },
+    {
+      number: "04",
+      title: "Web design & WordPress",
+      description:
+        "Build a website that feels clear, considered, and easy to use. I design responsive layouts and WordPress websites with thoughtful content structure, intuitive navigation, and straightforward content management.",
+      tools: [
+        "WordPress",
+        "Responsive design",
+        "HTML",
+        "CSS",
+        "Content management",
+      ],
+      detail: "From a first impression to a website that works.",
     },
   ],
   projects: [
@@ -123,6 +137,10 @@ export const portfolioData = {
   ],
   toolkit: [
     {
+      label: "Web design & WordPress",
+      items: "WordPress / Responsive layouts / HTML / CSS / Content management",
+    },
+    {
       label: "Data & modeling",
       items: "Python / SQL / Pandas / DuckDB / SQLite / dbt",
     },
@@ -137,9 +155,9 @@ export const portfolioData = {
     },
   ],
   seo: {
-    title: "Roslan Taef — Data, Analytics & Automation",
+    title: "Roslan Taef — Web Design, WordPress, Data & Automation",
     description:
-      "Roslan Taef builds data pipelines, analytics dashboards, and practical automation tools. Explore selected projects in data engineering, API integration, and AI-assisted software.",
+      "Roslan Taef designs responsive WordPress websites and builds data pipelines, analytics dashboards, and practical automation tools. Explore specialties in web design, data engineering, and API integration.",
   },
 };
 

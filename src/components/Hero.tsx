@@ -19,7 +19,7 @@ export function Hero() {
       </div>
       <div className="hero-grid">
         <div className="hero-copy">
-          <p className="eyebrow">DATA · SOFTWARE · REAL-WORLD PROBLEMS</p>
+          <p className="eyebrow">WEB DESIGN · DATA · AUTOMATION</p>
           <h1>
             I turn complexity
             <br />
@@ -28,9 +28,9 @@ export function Hero() {
             <em>useful.</em>
           </h1>
           <p className="hero-description">
-            I’m Roslan. I build data pipelines, clear analytics, and automation
-            tools that help people make sense of information—and do more with
-            it.
+            I’m Roslan. I design WordPress websites and build data pipelines,
+            clear analytics, and automation tools that turn complex ideas into
+            useful digital experiences.
           </p>
           <div className="hero-actions">
             <a className="button button-dark" href="#work">
@@ -90,7 +90,7 @@ export function Hero() {
       <div className="hero-bottom">
         <span>THINK IN SYSTEMS. BUILD FOR PEOPLE.</span>
         <span>
-          Data engineering <i /> Analytics <i /> Automation
+          Web design & WordPress <i /> Data <i /> Analytics <i /> Automation
         </span>
         <a href="#specialties" aria-label="Explore specialties">
           <ArrowDown size={18} />

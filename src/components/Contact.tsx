@@ -40,7 +40,7 @@ export function Contact() {
           </h2>
           <div className="contact-copy">
             <p>
-              A data challenge, a useful tool, or a team with something
+              A website to design, a data challenge, or a team with something
               interesting to build. I’d like to hear about it.
             </p>
             <a

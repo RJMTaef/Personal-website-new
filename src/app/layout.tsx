@@ -50,6 +50,8 @@ export default function RootLayout({
               description: portfolioData.seo.description,
               sameAs: Object.values(portfolioData.person.social),
               knowsAbout: [
+                "Web design",
+                "WordPress",
                 "Data engineering",
                 "Analytics dashboards",
                 "Python",

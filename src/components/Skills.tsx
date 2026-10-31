@@ -3,10 +3,11 @@ import {
   ChartNoAxesCombined,
   Database,
   Workflow,
+  PanelsTopLeft,
 } from "lucide-react";
 import { portfolioData } from "@/data/portfolio";
 
-const icons = [Database, ChartNoAxesCombined, Workflow];
+const icons = [Database, ChartNoAxesCombined, Workflow, PanelsTopLeft];
 export function Skills() {
   return (
     <section id="specialties" className="section specialties-section">
@@ -21,8 +22,8 @@ export function Skills() {
             </h2>
           </div>
           <p>
-            I like working where data, software, and business questions meet.
-            These are the areas I bring together.
+            I bring web design, data, and practical software together. These are
+            the areas I bring together.
           </p>
         </div>
         <div className="specialties-grid">

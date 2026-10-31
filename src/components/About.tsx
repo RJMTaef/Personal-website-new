@@ -23,10 +23,10 @@ export function About() {
               who needs it solved.
             </p>
             <p>
-              My work spans data engineering, analytics, and software
-              development. I like understanding the whole path: where
-              information comes from, how it is transformed, and what someone
-              can actually do with it.
+              My work brings together web design, WordPress, data engineering,
+              and software development. I care about both sides of a digital
+              experience: how the system works and how it feels for the person
+              using it.
             </p>
             <p>
               My computer science background at Dalhousie University, with a

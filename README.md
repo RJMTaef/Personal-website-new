@@ -1,6 +1,6 @@
 # Roslan Taef — personal portfolio
 
-A responsive portfolio focused on data engineering, analytics, and practical automation. Built with Next.js App Router, React, TypeScript, and CSS, with Lucide icons.
+A responsive portfolio focused on web design, WordPress, data engineering, analytics, and practical automation. Built with Next.js App Router, React, TypeScript, and CSS, with Lucide icons.
 
 ## Development
 

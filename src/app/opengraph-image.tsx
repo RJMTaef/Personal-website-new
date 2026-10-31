@@ -1,5 +1,5 @@
 import { ImageResponse } from "next/og";
-export const alt = "Roslan Taef — Data engineering, analytics and automation";
+export const alt = "Roslan Taef — Web design, WordPress, data and automation";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 export default function Image() {
@@ -25,7 +25,7 @@ export default function Image() {
         }}
       >
         <span>ROSLAN TAEF</span>
-        <span>DATA · ANALYTICS · AUTOMATION</span>
+        <span>WEB DESIGN · WORDPRESS · DATA</span>
       </div>
       <div
         style={{
@@ -50,8 +50,8 @@ export default function Image() {
           fontSize: 21,
         }}
       >
-        Building data pipelines, clear analytics, and practical tools. /
-        Halifax, Canada
+        Websites, data systems, and useful digital experiences. / Halifax,
+        Canada
       </div>
     </div>,
     size,

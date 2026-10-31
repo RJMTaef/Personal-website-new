@@ -509,7 +509,7 @@ p {
 }
 .specialties-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   border: 1px solid var(--line);
   border-radius: 3px;
   overflow: hidden;
@@ -519,8 +519,11 @@ p {
   display: flex;
   flex-direction: column;
 }
-.specialty + .specialty {
+.specialty:nth-child(even) {
   border-left: 1px solid var(--line);
+}
+.specialty:nth-child(n + 3) {
+  border-top: 1px solid var(--line);
 }
 .specialty-top {
   display: flex;
